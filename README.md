@@ -1,5 +1,5 @@
 
-# College Management System
+# College Management System (Backend Part)
 
 The College Management System is a MERN Stack-based system with three different login portals for students, faculty, and admin.
 
